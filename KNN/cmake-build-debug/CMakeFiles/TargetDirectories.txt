@@ -1,0 +1,3 @@
+/Users/saarazari/Desktop/cs-barIlan/advanced_programming/ex4Mitkadem/cmake-build-debug/CMakeFiles/knn_clientServer.dir
+/Users/saarazari/Desktop/cs-barIlan/advanced_programming/ex4Mitkadem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/saarazari/Desktop/cs-barIlan/advanced_programming/ex4Mitkadem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
